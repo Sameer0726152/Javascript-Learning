@@ -39,7 +39,7 @@ let b = 20;
 [a, b] = [b, a];
 console.log(`a = ${a}, b = ${b}`);
 
-//DEstructuring Function Return
+//Destructuring Function Return
 function getUser() 
 {
     return{
